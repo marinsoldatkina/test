@@ -1,0 +1,340 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.td-mars-text {
+  font-family: 'TD Mars', sans-serif;
+  font-size: 130px;
+  text-align: center;
+  padding-top: 440px;
+  padding-bottom: 260px;
+}
+
+
+   
+    .header {
+        height: 1000px;
+        background-image: url(forbackpic1.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 1600px;
+    }
+
+  
+.line {
+  width: 1600px;
+  height: 50px;
+  background-color: #305235;
+}
+ 
+
+.image-row {
+  display: flex;
+  justify-content: flex-start; 
+  align-items: flex-start;    
+}
+
+.rectangle {
+  width: 800px;
+  height: 1000px;
+  background-color: #F6DBD0;
+  padding: 100px 40px;
+  box-sizing: border-box;
+}
+
+.picshirt1 {
+  width: 800px;
+  height: 1000px;
+  object-fit: cover;
+}
+
+
+.block {
+  position: relative;
+  width: 1600px;
+  height: 1000px;
+  background-color: #FFFAF3;
+  box-sizing: border-box;
+}
+
+.title-top {
+  font-family: 'DaMiOne', sans-serif;
+  font-size: 34px;
+  text-align: center;
+  color: #24542B;
+  padding-top: 100px;
+}
+
+.images-container {
+  position: absolute;
+  top: 300px;
+  width: 100%;
+}
+
+.image-item {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-item img {
+  width: 350px; 
+  height: 350px;
+}
+
+.caption {
+  font-family: 'Golos', sans-serif;
+  font-size: 28px;
+  color: #24542B;
+  margin-top:20px;
+}
+
+.catalog-text {
+  position: absolute;
+  padding-top:720px;
+  right:50px;
+  color: #24542B;
+  padding-right: 150px;
+  font-family:'DaMiOne', sans-serif;
+  font-size:34px;
+}
+
+.image-row {
+  display: flex;
+  justify-content: flex-start; 
+  align-items: flex-start;    
+}
+
+.rectangle {
+  width: 800px;
+  height: 1000px;
+  background-color: #F6DBD0;
+  padding: 100px 40px; 
+  box-sizing: border-box;
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.philosophy-title {
+  font-family: 'DaMiOne', cursive; 
+  font-size: 46px;
+  color: #24542B; 
+  margin-left: 40px; 
+  margin-top: 0; 
+  padding-top: 220px;
+}
+
+.philosophy-text {
+  font-family: 'Golos', sans-serif; 
+  font-size: 23px;
+  text-align: justify; 
+  color: #24542B;
+  margin-top: 35px; 
+  margin-left: 40px; 
+  margin-right: 40px; 
+} 
+
+.images-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.image-shop {
+  width: 800px;
+  height: 1000px;
+  object-fit: cover; 
+}
+
+.colored-block {
+  width: 800px;
+  height: 1000px;
+  background-color: #305235;
+  position: relative; 
+}
+
+.text-container {
+  position: absolute;
+  top: 390px; 
+  left: 20px;
+  right: 90px;
+}
+
+.daily-text {
+  font-family: 'DaMiOne', cursive; 
+  font-size: 46px;
+  color: #fff; 
+  margin: 0; 
+  padding-left: 40px;
+  
+}
+
+
+.description-text {
+  font-family: 'Golos', sans-serif; 
+  font-size: 23px;
+  color: #fff; 
+  margin-top: 35px; 
+  text-align: justify; 
+  padding-left: 40px
+}
+
+
+.block {
+width: 1600px;
+height: 1000px;
+background-color: #FFFAF3;
+justify-content: center;
+align-items: center;
+}
+
+.title-top {
+    font-family: 'DaMiOne', sans-serif;
+    font-size: 34px;
+    text-align: center;
+    padding-top: 200px; 
+}
+
+.images-container {
+  position: absolute;
+  top: 300px;
+  width: 100%;
+  padding-left: 300px;
+}
+
+.image-item {
+  position: absolute;
+  display: flex;
+  padding-top: 150px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-item img {
+  width: 348px; 
+  height: 452px;
+}
+
+.caption {
+  font-family: 'Golos', sans-serif;
+  font-size: 28px;
+  color: #24542B;
+}
+
+.block {
+width: 1600px;
+height: 1000px;
+background-color: #FFFAF3;
+justify-content: center;
+align-items: center;
+}
+
+.title-top {
+    font-family: 'DaMiOne', sans-serif;
+    font-size: 34px;
+    text-align: center;
+    padding-top: 200px; 
+}
+
+.images-container {
+  position: absolute;
+  top: 300px;
+  width: 100%;
+  padding-left: 300px;
+}
+
+.image-item {
+  position: absolute;
+  display: flex;
+  padding-top: 150px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-item img {
+  width: 348px; 
+  height: 452px;
+}
+
+.caption {
+  font-family: 'Golos', sans-serif;
+  font-size: 28px;
+  color: #24542B;
+}
+
+.block {
+width: 1600px;
+height: 1000px;
+background-color: #FFFAF3;
+justify-content: center;
+align-items: center;
+}
+
+.title-top {
+    font-family: 'DaMiOne', sans-serif;
+    font-size: 34px;
+    text-align: center;
+    padding-top: 200px; 
+}
+
+.images-container {
+  position: absolute;
+  top: 300px;
+  width: 100%;
+  padding-left: 300px;
+}
+
+.image-item {
+  position: absolute;
+  display: flex;
+  padding-top: 150px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-item img {
+  width: 348px; 
+  height: 452px;
+}
+
+.caption {
+  font-family: 'Golos', sans-serif;
+  font-size: 28px;
+  color: #24542B;
+}
+
+.line {
+  width: 1600px;
+  height: 200px;
+  background-color: #305235;
+  position: relative;
+}
+
+.text {
+  position: absolute;
+  bottom: 80px; 
+  left: 60px;   
+  font-family: 'Golos', sans-serif;
+  font-size: 20px;
+  color: #FFFAF3;
+}
+
+.icon {
+  position: absolute;
+  padding-top: 200px;        
+  padding-right: 200px;    
+  width: 100px;
+  height: 100px;
+  object-fit: cover; 
+}
